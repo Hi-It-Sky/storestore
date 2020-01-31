@@ -1,0 +1,15 @@
+.header {background:blue ; color:white ; font-size : 30pt}
+.results th {font-size : 20pt ; color : white ; background : black }
+.results td {font-size : 20pt}
+input {font-size : 16pt ; background: lightgrey ; border-radius : 3px}
+.tiptext { background : salmon ; font-size : 16pt}
+.search { font-size : 16pt }
+.cart th {font-size : 20pt ; color : white ; background : black }
+.cart td {font-size : 20pt}
+.total td {background : lightgrey}
+.cart img {float:right}
+.number {text-align:right}
+
+body { background : rgb(219, 219, 138) ; color: black }
+
+button { font-size: 16pt ; background : blue ; border : solid white 1px ; color : white }
